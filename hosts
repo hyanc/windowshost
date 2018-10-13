@@ -1,20 +1,8 @@
 127.0.0.1       # Copyright (c) 1993-1999 Microsoft Corp.
-#
-
-#NICOLE
-#127.0.0.1	instagram.com
-#127.0.0.1	www.instagram.com
-#127.0.0.1	twitter.com
-#127.0.0.1	www.twitter.com
-#127.0.0.1	facebook.com
-#127.0.0.1	www.facebook.com
-#127.0.0.1	wattpad.com
-#127.0.0.1	www.wattpad.com
-
 
 # FULL OF SHIT
 
-127.0.0.1       localhost
+127.0.0.1 localhost
 127.0.0.1	www.google-analytics.com
 127.0.0.1	google-analytics.com
 127.0.0.1	ssl.google-analytics.com
@@ -121,9 +109,6 @@
 127.0.0.1	ba.kliksaya.com
 127.0.0.1	resources.infolinks.com
 127.0.0.1	ads.buzzcity.net
-
-
-
 127.0.0.1	media6.data-slimspots.com
 127.0.0.1	media5.data-slimspots.com
 127.0.0.1	media4.data-slimspots.com
