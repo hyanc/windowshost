@@ -1,7 +1,3 @@
-127.0.0.1       # Copyright (c) 1993-1999 Microsoft Corp.
-
-# FULL OF SHIT
-
 127.0.0.1 localhost
 127.0.0.1	www.google-analytics.com
 127.0.0.1	google-analytics.com
@@ -22,16 +18,16 @@
 127.0.0.1	insider.msg.yahoo.com
 127.0.0.1	content.yieldmanager.edgesuite.net
 127.0.0.1	s-am-ap.dp.yahoo.com
-127.0.0.1       newopenx.detik.com
+127.0.0.1 newopenx.detik.com
 127.0.0.1	detik.serving-sys.com
-127.0.0.1       o.detik.com
-127.0.0.1       uac.advertising.com
-127.0.0.1       r1.ace.advertising.com
-127.0.0.1       contextual.media.net
-127.0.0.1       cmap.uac.ace.advertising.com
-127.0.0.1       ads.yahoo.com
-127.0.0.1       content-ssl.yieldmanager.com
-127.0.0.1       global.adserver.yahoo.com
+127.0.0.1 o.detik.com
+127.0.0.1 uac.advertising.com
+127.0.0.1 r1.ace.advertising.com
+127.0.0.1 contextual.media.net
+127.0.0.1 cmap.uac.ace.advertising.com
+127.0.0.1 ads.yahoo.com
+127.0.0.1 content-ssl.yieldmanager.com
+127.0.0.1 global.adserver.yahoo.com
 127.0.0.1	static.adzerk.net
 127.0.0.1	cdn.epom.com
 127.0.0.1	nl.static.planet49.com
@@ -415,3 +411,4 @@
 127.0.0.1	imgg-cdn.mgid.com
 127.0.0.1	tpc.googlesyndication.com
 127.0.0.1	advertnative.com
+127.0.0.1	unanalytics.com
